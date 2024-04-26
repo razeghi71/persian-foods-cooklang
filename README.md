@@ -1,2 +1,2 @@
 # persian-foods-cooklang
-Persian Food Recepies using implemented in cooklang
+Persian Food Recepies implemented in cooklang
